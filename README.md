@@ -1,4 +1,4 @@
-# Wikipedia Scraping Using Python requests and BeautifulSoup
+# Wikipedia Scraping
 
 ```python
 from bs4 import BeautifulSoup
